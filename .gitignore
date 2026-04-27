@@ -1,0 +1,6 @@
+venv/ 
+demo/ 
+__pycache__/ 
+*.pyc 
+*.pbix 
+*.bat 
