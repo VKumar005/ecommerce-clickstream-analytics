@@ -88,12 +88,19 @@ This project demonstrates how to design and build a **production-style real-time
 ```
 ecommerce-clickstream-analytics/
 │
-├── producer.py          ← Kafka event producer
-├── spark_consumer.py    ← Spark streaming consumer
-├── requirements.txt     ← Python dependencies
-├── README.md            ← Project documentation
-├── RUNBOOK.md           ← Operations guide
-└── .gitignore
+├── producer.py              ← Kafka event producer
+├── spark_consumer.py        ← Spark streaming consumer
+├── requirements.txt         ← Python dependencies
+├── README.md                ← Project documentation
+├── RUNBOOK.md               ← Operations guide
+├── .gitignore               ← Git ignore rules
+└── screenshots/             ← Pipeline screenshots
+    ├── kafka_server.png     ← Kafka server running
+    ├── kafka_topic.png      ← Kafka topic created
+    ├── producer_running.png ← Producer sending events
+    ├── spark_streaming.png  ← Spark batch processing
+    ├── postgresql_data.png  ← PostgreSQL data results
+    └── dashboard.png        ← Power BI dashboard
 ```
 
 ---
