@@ -110,6 +110,28 @@ ecommerce-clickstream-analytics/
 
 ---
 
+## Screenshots
+
+### Kafka Server Running
+![Kafka Server](screenshots/kafka_server.png)
+
+### Kafka Topic Created
+![Kafka Topic](screenshots/kafka_topic.png)
+
+### Producer Sending Events
+![Producer](screenshots/producer_running.png)
+
+### Spark Processing Batches
+![Spark](screenshots/spark_streaming.png)
+
+### PostgreSQL Data
+![PostgreSQL](screenshots/postgresql_data.png)
+
+### Power BI Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+---
+
 ## How to Run
 
 ### Prerequisites
